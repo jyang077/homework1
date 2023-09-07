@@ -1,2 +1,3 @@
+
 What is a remote repository?
 A remote repository is like a central hub with all of the code that collaborators will push changes to.
